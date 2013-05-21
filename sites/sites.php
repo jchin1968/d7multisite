@@ -53,3 +53,12 @@
  * @see conf_path()
  * @see http://drupal.org/documentation/install/multi-site
  */
+$sites = array(
+  'site1' => 'site1',
+  'site1.com' => 'site1',
+  'www.site1.com' => 'site1',
+
+  'site2' => 'site2',
+  'site2.com' => 'site2',
+  'www.site2.com' => 'site2',
+);
