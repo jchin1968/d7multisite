@@ -61,4 +61,8 @@ $sites = array(
   'site2' => 'site2',
   'site2.com' => 'site2',
   'www.site2.com' => 'site2',
+  
+  'site3' => 'site3',
+  'site3.com' => 'site3',
+  'www.site3.com' => 'site3',  
 );
